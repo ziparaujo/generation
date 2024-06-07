@@ -1,4 +1,4 @@
-package projeto.lacoscondicionais;
+package lacoscondicionais;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package projeto.lacoscondicionais;
+package lacoscondicionais;
 
 public class Lista01Ex04 {
 

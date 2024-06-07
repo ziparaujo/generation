@@ -1,4 +1,4 @@
-package projeto.lacosrepeticao;
+package lacosrepeticao;
 
 import java.util.Scanner;
 
